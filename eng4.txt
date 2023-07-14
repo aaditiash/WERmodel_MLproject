@@ -1,0 +1,174 @@
+Shape-Controlled Electrodeposition of Gold Nanostructures
+Yang Tian,*,† Haiqing Liu,† Guohua Zhao,† and Tetsu Tatsuma‡
+Department of Chemistry, Tongji UniVersity, Siping Road 1239, Shanghai 200092, People’s Republic of China,
+and Institute of Industrial Science, The UniVersity of Tokyo, 4-6-1 Komaba, Meguro-ku,
+Tokyo 153-8505, Japan
+ReceiVed: August 16, 2006; In Final Form: September 21, 2006
+A one-step, nontemplated, low-cost electrochemical method for the growth of gold nanostructures with different
+shapes is reported here. It is the first time that nanopyramidal, nanorod-like, and spherical gold nanostructures
+were fabricated on polycrystalline gold substrates through electrochemical overpotential deposition (OPD)
+by easily manipulating the deposited potentials and concentrations of HAuCl4. X-ray diffraction and
+electrochemical analyses revealed that the pyramidal structures are more extensively dominated by (111)
+facets in comparison with the other nanostructures. The nanopyramids, which have anisotropic structures,
+exhibited broad extinction over the visible region, most likely due to plasmon resonance. Oxygen reduction
+activity of a gold electrode with the pyramidal structures was lower than those of the electrodes with the
+other nanostructures since the activity at the gold (111) surface is lower than that at the (100) and (110)
+surfaces.
+Introduction
+In the past couple of decades, there has been a burst of
+research activity on nanostructured metal particles, particularly
+noble metal nanoparticles with controlled size, morphology, and
+crystal orientation, because of their unique physical and chemical
+properties different from bulk metals.1,2 The synthesis of noble
+metal nanorods,3 nanowires,4 nanorings,5 nanobelts,6 and nanopolyhedrons,
+7,8 including nanocubes,9 nanoprisms,10 and nanoplates,
+11 has been reported on the basis of their potential
+applications to materials and devices with a special electronic,
+optical, thermal, catalytic, or magnetic function.1,2,12-14 Among
+the noble metals, gold is of importance for its stability and
+unique optical properties.
+In fabrication of such functional materials and devices, it is
+sometimes important to assemble the metal nanoparticles onto
+solid substrates. Charged polymers and other functional polymers
+have been employed to anchor the noble metal nanoparticles
+as a monolayer onto various substrates,15,16 including
+glasses, semiconductors, metals, and carbons. This self-assembly
+technique could also fabricate robust multilayers by layer-bylayer
+(LBL) assembly.17,18 Besides polymers, proteins19 and
+DNA20 have also been exploited as anchoring agents. More
+recently, a templated self-assembly technique has been developed
+to fabricate three-dimensional nanoparticle arrays by using
+a nanoporous alumina template.21 In addition to these two-step
+methods, there have been reported methods for fabricating metal
+nanoparticle arrays on the basis of electron-beam lithography
+(EBL)22 or nanotemplating.23,24 However, these methods require
+expensive equipment or special templates.
+Another useful method is electrochemical deposition.25-29
+Various morphologies including rod-like28 and dendritic29a gold
+nanostructures have been obtained in a one-step process without
+templates, typically in the presence of an additive such as
+Pb4+,25-28 cysteine,29 or I-.29b However, those nanostructures
+were not necessarily well-defined. In this paper, we demonstrate
+one-step, inexpensive, nontemplated electrochemical fabrication
+of pyramidal, rod-like, and spherical gold nanostructures on a
+sputtered gold film. The structures are characterized by atomic
+force microscopy (AFM), visible spectroscopy, X-ray diffraction
+(XRD), and electrochemical methods. Their electrochemical
+activities for oxygen reduction are also examined.
+Experimental Procedures
+Chemicals and Materials. Hydrogen tetrachloroaurate(III)
+(HAuCl4) trihydrate was purchased from Aldrich (St. Louis,
+MO) and used as supplied. Sodium hydroxide and perchloric
+acid were obtained from Wako Pure Chemical Industries, Ltd.
+(Osaka, Japan). The solution used in this work was freshly
+prepared Milli-Q water. ITO-coated glass plates with a square
+resistance of 10-20 ¿ cm-2 were obtained from Asahi Glass
+(Japan).
+Preparation of Gold Nanostructures. ITO-coated glass
+plates were thoroughly cleaned by sonication for 30 min in the
+following solvents successively: soapy water, water, neat
+acetone, and 1 M NaOH. Then, a gold film with a thickness of
+about 50 nm estimated by AFM was sputtered on the clean ITO
+glass plate. Pyramidal, rod-like, and spherical gold nanostructures
+were electrodeposited from aqueous solutions of 0.1 M
+HClO4 containing 40, 4, and 40 mM HAuCl4, respectively,
+at -0.08, -0.08, and -0.2 V versus AgjAgCl, respectively,
+for 2 min.
+Instruments and Measurements. An atomic force microscope
+SPA-300HV (Seiko Instruments Inc., Japan) was employed
+to record the images of the nanostructured gold surfaces.
+The XRD pattern was obtained by a D/max2550VB3+/PC
+X-ray diffractometer using Cu (40 kV, 100 mA). The visible
+reflectance spectra of the nanostructured surfaces were collected
+by a UV-vis spectrophotometer MCPD-3000 (Otsuka Electronics,
+Japan). A CHI 660 electrochemical work station (CH
+instruments, Austin, TX) was employed in all electrochemical
+measurements, which were carried out with a conventional twocompartment
+three-electrode electrochemical cell. The reference
+electrode was a KCl-saturated AgjAgCl electrode, while the
+auxiliary electrode was a platinum wire. The real surface area
+of gold nanostructures was determined by calculating the charge
+consumed during the formation of the surface oxide monolayer
+in H2SO4 solution.30
+Results and Discussion
+Morphology of Gold Nanostructures. Gold nanostructures
+with various shapes were prepared by one-step and nontemplated
+electrochemical deposition under different experimental conditions.
+In the present work, we applied sufficiently negative
+potentials, -0.08 and -0.2 V versus AgjAgCl, to the electrode,
+to obtain three-dimensional structures.
+The morphology of the nanostructured gold films was
+characterized by AFM (Figure 1). As Figure 1a shows, deposition
+at -0.08 V versus AgjAgCl in a 40 mM HAuCl4 solution
+gave nanopyramidal structures. On the other hand, at a lower
+HAuCl4 concentration (4 mM), rod-like nanostructures were
+obtained, as Figure 1b shows. At a more negative potential,
+-0.2 V, rather featureless spherical nanostructures formed in
+the 40 mM HAuCl4 solution (Figure 1c). In the case of the
+nanopyramids, the edge length of the bottom was 50-200 nm,
+and the height was several hundreds of nanometers. The
+nanorods grew out to about 100 nm wide and up to 200-300
+nm long, or more. The diameters of the nanospheres ranged
+from 70 to 100 nm. For comparison, an AFM image of the
+sputtered gold substrate is also shown in Figure 1d. Its spherical
+morphology with diameter of 25-50 nm is clearly different from
+the electrochemically deposited nanostructures, either in size
+or in shape.
+Crystallographic Characterization. The crystalline orientation
+of the gold nanostructures was investigated by XRD. The
+diffraction peaks of the electrodeposited pyramidal, rod-like,
+and spherical gold nanostructures are shown in Figure 2a-c,
+respectively. The observed peaks corresponding to the (111),
+(200), (220), (311), and (222) facets demonstrate that the
+electrodeposited gold is composed of pure crystalline gold with
+the face-centered cubic (fcc) structure. The intensity ratios of
+the (200) peak to the (111) peak obtained for the pyramidal
+(0.059), rod-like (0.078), and spherical (0.13) structures were
+much lower than that reported in the standard file (JCPDS,
+0.33),11 indicating that the gold nanostructures, nanopyramids
+in particular, were preferentially dominated by (111) facets. In
+contrast, the sputtered gold film exhibited a less prominent (111)
+peak (Figure 2d), in comparison with those for the electrochemically
+deposited nanostructures, indicating that the (100)
+and (110) facets constitute a considerable portion of the sputtered
+gold surface. Incidentally, the (222), (441), and (622) peaks of
+the ITO substrate are also seen in Figure 2d.
+An electrochemical method was also employed for characterization.
+It is known that different gold facets show different
+cyclic voltammograms (CVs) in acidic solutions.31 Figure 3
+depicts the CVs collected at the nanostructured gold electrodes
+in 0.01 M aqueous H2SO4. It is noteworthy that the CV for the
+pyramidal nanostructure (Figure 3a), characterized by the
+oxidation peak at around +1.3 V versus AgjAgCl, is characteristic
+of the gold (111) surface.31 In the case of the CVs for
+the rod-like and spherical nanostructures (Figure 3b,c, respectively),
+a small oxidation peak at around +1.1 V, which is
+indicative of the presence of the gold (100) and/or (110) facets,31
+was observed, although there still was the large peak for the
+(111) surface. On the other hand, in the case of the CV for the
+sputtered gold, the peak for the (111) facets was much less
+significant. These results are qualitatively in agreement with
+the conclusions drawn from the XRD data.
+Thus, it is reasonable to consider, on the basis of these results,
+that each nanopyramid is a gold single crystal with (111) facets.
+The nanopyramid can be recognized as a part of an octahedral
+gold nanocrystal, and octahedral gold crystals are noramally
+enclosed by (111) facets. It is known that the (111) facet is the
+thermodynamically most stable among the possible facets of
+the fcc crystals. Therefore, it is rational that the crystal with
+the (111) facet is preferentially grown at a mild electrode
+potential, which enables relatively slow crystal growth, in a
+solution enriched with Au3+.
+Conclusions
+Pyramidal, rod-like, and spherical gold nanostructures were
+electrochemically prepared at different potentials and different
+HAuCl4 concentrations. The nanopyramids were primarily
+dominated by (111) facets. The pyramidal nanostructures
+exhibited a unique plasmon-based color due to their anisotropic
+morphology and a low oxygen reduction activity owing to a
+lack of (100) and (110) facets, which are more active for the
+reaction than (111). The shape-controlled deposition of gold
+nanostructures would be useful in the development of gold films
+that are potentially applicable to electrocatalysis, surfaceenhanced
+Raman scattering (SERS), surface plasmon sensors
+(SPR), and so on.

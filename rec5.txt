@@ -1,0 +1,134 @@
+ DVOC, a two-dimensional 2D dynamic vibration optical-related elastic imaging for measuring mechanical performance,
+  is a potential application in the organization project.
+
+ The first draft of Peter Pijanka and Matthew W. Urban's historical original draft was revised on December 3, 2020,
+  and the draft was accepted on January 22, 2021.
+ It was published on January 26, 2021 and February 3, 2021.
+
+
+  The mechanical properties of the dyeing organization are an important indicator,
+  because they are related to the state of the disease.
+ DVOC, a two-dimensional 2D dynamic vibration optical-related elastic imaging for measuring mechanical performance,
+  is a potential application in the organization project.
+ However, complex focus alignments are inevitable.
+
+ Another driving force is voltage, PZT stack, which can be compressed to obtain the image of change,
+which can affect the mechanical properties of the organization in the organization project.
+
+ In this study, we reported a new technology called 2D dynamic vibration OCE DVOC,
+  which is used to evaluate 2D wavelength,
+  and is a non-contact method for samples.
+
+
+ Using 3D Fourier transform to transmit the waveform X,Y,T to 3Dk space Kx,Ky,F.
+  Using spatial 2D wavelength filter and multiple-angle directional filter,
+  the waveform with the full amount is divided into four separate directions.
+  Using 2D spatial wavelength algorithm to calculate the 2D wavelength graph,
+  the study examined six materials,
+  namely a two-thickness 10mm solid model,
+  and a two-thickness 2mm solid model,
+  a two-thickness straight model, and a three-dimensional beam.
+ In addition, we also used RFOCE to evaluate the wavelength for comparison.
+
+
+ The two-dimensional dynamic vibration OCE technology proposed by the numerical simulation and verification,
+  we proved that the experiment results were very consistent with the RFOCE,
+ the dynamic OCE, and the numerical simulation results.
+  The 2D dynamic vibration OCE proposed by us may be an advantageous non-contact method
+in the mechanical evaluation and experimental translation of the organization project.
+  In 2021, the American Academy of Sciences adopted the terms of the OECD Open Acquisition and Publishing Agreement.
+
+  1. In the past 20 years,
+  people have made comprehensive research on organizational mechanics using spatial imaging technology,
+  because the characteristics of organizational mechanics are closely related to the state of disease.
+
+  For example, fibrillation and cancer may cause significant changes in organizational mechanical performance.
+ Organizational hardness changes are closely related to the interaction of ECM,
+ the value of external cells, and the multiplication and division of fiber cells.
+  In addition, cells themselves can change the mechanical properties of the organization.
+  These cells use their mechanical strength, such as the strength of the cell skeleton,
+ and their response to the surrounding environment to control the organization's mechanics.
+ In the case of cancer, solid hardness caused by tumor growth in a limited physical volume will increase abnormal cell growth.
+  Abnormal growth suppresses the health of the surrounding organization, eventually increasing the hardness of malignant diseases.
+  Therefore, the mechanical performance of the organization is a better indicator of the importance of understanding the state of various diseases and physiological conditions.
+ Atomic Fibrillation, or AFM, is a powerful tool for quantifying the soft tissue and cellular mechanical performance.
+ However, it exists in a sample that is partially damaged due to the compression of the scalpel, and the cost is high and the operation is time-consuming.
+  In clinical applications, wave propagation has been widely used to evaluate the biological strength of the soft tissue
+ In general, the space of SW, E and MRE images is within the range of millimeters to millimeters,
+  which will limit the study to the macro level of the organ-sized market, FOF.
+ Optical-related segmentation scanning, OCTOBER, is a way to replace the imaging of micro-organisms.
+ OCTOBER has many advantages, including that it is non-invasive, non-contact, fast, high spatial resolution, and sensitive to the surface.
+ Based on OCTOBER's elastic imaging, it is called optical-related elastic imaging, OCE.
+ It was first proposed by J.R. Schmitt in 1998 by compressing the hard tissue of the soft tissue.
+ Many reports show that the OCE, which is equipped with a variety of incentive tools,
+ can produce detection waves or surface wave propagation in 2D space to represent the mechanical properties of the tissue.
+
+  So far, in the past 20 years, it has been widely used to study biological tissue and micro-organisms.
+  In the OCE technology based on wave, the spatial resolution closely depends on the mechanical properties of the incentive frequency,
+  the instantaneous incentive pulse duration and the sample, such as hard or soft.
+
+
+ The OCE experiment involves a certain form of contact method or three-dimensional research and the collection of non-living tissue.
+  The OCE experiment involves a certain form of contact method or three-dimensional research and the collection of non-living tissue samples for measurement.
+ The incentive tool directly contacts the sample or the contact container used to store the sample, such as a cultivator or a glass plate.
+ For the entanglement mechanism of the contact method, Lee and others used a pressure-electric vibrator to measure the surface wave at about 45 degrees to determine the elasticity of the skin, muscle, flesh and tissue models.
+[376.00s -> 388.00s]  Ambrosinski and others used a non-contact method to use self-made air bubbles and a pressure-electric converter to produce live radiation based on air bubbles on the membrane membrane.
+  With the evaluation of wave propagation and pixel speed, S. Wong and K.V. Loring also conducted a similar study,
+using the spray generated by the gas door controller to evaluate the biological mechanics of the three-dimensional entanglement.
+ Zijin and others also used air bubbles and ultrasonic waves to measure the elasticity of the three-dimensional entanglement in the body in 3D way.
+ According to the report, the needle is used as a load for the membrane structure for contact.
+  Live radiation RF is a reliable incentive method widely used to evaluate the mechanical performance of biological structures and biological units,
+ such as cervical vertebrae, cervical vertebrae and blood vessels, angiomas, retina structures and meridians.
+However, due to the need for complex measurements and smaller samples,
+the use of ultrasonic wave method in OCE may increase the difficulty of easy setting of organizational engineering applications.
+ In addition, ultrasonic wave will lead to unnecessary reflected waves from the steel boundary,
+  and may increase the difficulty of correct estimation of wave velocity and affect the evaluation of mechanical performance of 35.
+  According to the report, the ultrasonic wave OCE uses a fixed frequency wave in the受限介质,
+  F.Sviatovich and others used two ultrasonic waves, each of 400 Hz and 400.4 Hz, as an incentive signal,
+  to generate waves in a straight film to evaluate the speed of detection and mechanical measurement.
+  Tim Nimon and others also used a similar system to distinguish the two components of the film according to the crawling wave.
+  This method is limited by the allowed wave interference of the required sample size,
+  and compared with the sample used in organizational engineering, the sample size may be relatively large.
+  Another method is to use ultrasonic wave behavior to estimate the elasticity of each film layer 38,
+  however, it requires a custom multi-pipe under its incentive ring, and cannot avoid contact with the organization.
+  On the other hand, since the sample is usually placed in a limited training space,
+  such as a 35-kilometer-straight hole, which is composed of cement gel compounds,
+  these methods may be difficult to use in organizational engineering applications.
+  In this study, we reported a new concept called 2D dynamic vibration OCE-DVOCE technology,
+  which is used to evaluate the mechanical performance of the sample in a limited environment and simulate the situation of organizational engineering applications.
+  This method avoids the cumbersome incentive alignment process of non-contact with the sample.
+  This method may be used in organizational engineering applications to measure the mechanical performance of the organization that grows in the training object.
+  Using ultrasonic waves based on the incentive ring in two different thicknesses of military-grade materials,
+  7% and 14% cement gel, 10 and 2 mm thick, to generate oscillations, this is a non-military-grade material.
+  The material and the substance resin organization simply place the sample in the 35-kilometer-training object on the surface of the vibrator,
+  without the need for complex incentive focus alignment.
+  Using the custom 3D October scanning model to create 4D wave transmission XYZT.
+  In addition, it also uses a two-dimensional wave filter, a multi-angle position filter, and a two-dimensional partial wave calculation to determine the wave speed.
+  Use ultrasonic wave OCE to compare with our new 2D dynamic vibration OCE technology.
+  Simulate the two military-grade materials to verify the experiment results.
+  The 2D dynamic vibration OCE technology we proposed is based on the fact that the oscillations in the same mass, one mass, and the biological organization have a non-military-grade focus alignment and non-contact.
+  The method proposed is a promising technology that can be applied in the application of organizational engineering applications and experimental translation under the easy-to-set program.
+  In addition to the 2.1 method, there are 5 models of copper-plated and liquid-plated molds.
+  Four molds are copper-plated, one is liquid-plated.
+  Use 300A-type G25001KG silver-plated powder, Sigma Aldrich, St. Louis, Missouri.
+  The United States has two silver-plated densities, 7V, V, and 14V, V, with a thickness of 10 kilometers.
+  In order to make a uniform model, use TILR Reagent Floss 99%.
+  Sigma Aldrich, St. Louis, Missouri.
+  In order to provide a similar case in the application of organizational engineering, we created a 7V, V, and 14V, V military-grade model with a thickness of 2 kilometers as a high-level case.
+  The total volume of 100 ml of tap water in the 500 ml cup is heated to about 70 degrees C.
+  Add 14V, V silver-plated powder and 1 gram of TILR to the cup and stir for about 5 minutes to make it easy to melt.
+  Put the mixture in the dehumidifier and remove the small bubbles in the liquid.
+  After dehumidification, pour the mixture into two conventional 35-kilometer diameter 10-kilometer high cultivators, 10 kilometers and 2 kilometers thick, and conduct a DVOCE experiment.
+  In addition, in a customized cultivator with a diameter of 85 kilometers and a diameter of 10 kilometers, the RFOCE experiment was conducted at the bottom of the mold and the result was compared.
+  Due to the fact that the thickness of the Mylar mold is only 100 millimeters, the RFOCE result is very small, and it can be considered to be sound and transparent.
+  Transfer the cultivator to the 4-degree refrigeration of the facility and repeat the application of the 7V, V military-grade rubber mold.
+  In order to make a straight model, the same 14V, V silver-plated powder is easily poured into another conventional 35-kilometer diameter 10-kilometer high cultivator, and a diameter of 2 kilometers is placed in the middle of the cultivator to create a small circle suitable for a 2-millimeter diameter hybrid.
+  Once 14V, V silver-plated powder is easily completely dissolved, it can be removed from the master to solidify, and then 7V, V silver-plated powder is easily poured into the small circle hole according to the above manufacturing instructions.
+  The thickness of a straight model is about 10 millimeters. After the second Mylar organization device is dead, immediately remove the Mylar and freeze it.
+  Defrost the Mylar and place it at room temperature in the saline solution, cut the Mylar along the edge into two halves and reflect it.
+  In order to verify our method, use a finite source method to perform a numerical simulation. Use a display soldering iron to solder in Onsfield, Braddock City, California.
+  We checked two three-dimensional models with elastic material properties. The model consists of 289,232 grid units and 296,271 grid nodes, and is used to create a 35-kilometer diameter 10-kilometer thick simulation model.
+  In order to reduce computational load and solving time, the model is modularized into two axis-symmetric models with inner-surface axis. The picture 1EA shows the auxiliary and front view of the simulation model, which specifies the type and position of the boundary conditions.
+  The x-axis and y-axis are symmetrical. By assuming the infinite strength of the sample, we can apply the fixed positional boundary conditions applied to the bottom and side of the numerical model. Use a display soldering iron to perform a mechanical static analysis. The time step is 0.0523 seconds.
+
+
